@@ -1,5 +1,5 @@
-#HTML5 animation
+# HTML5 animation
 
 An animation of a creature following the mouse using django.
 
-It's written in javascript.
+It's written in javascript.(member/static/myscript.js).
