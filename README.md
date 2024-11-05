@@ -1,4 +1,4 @@
-#HTML5 animation
+#HTML5_animation
 
 An animation of a creature following the mouse using django.
 
