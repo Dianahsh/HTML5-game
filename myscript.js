@@ -2,9 +2,9 @@ var myGamePiece=[];
 
 function startGame() {
     myGameArea.start();
-    myGamePiece[0] = new component(250, 206, "static/head.svg", 500, 200, 0); //type0 -> head
+    myGamePiece[0] = new component(250, 206, "head.svg", 500, 200, 0); //type0 -> head
     for(i=1;i<10;i++){
-        myGamePiece[i] = new component(100, 75, "static/body.svg", 500+i*80, 200, i);
+        myGamePiece[i] = new component(100, 75, "body.svg", 500+i*80, 200, i);
     }
 }
 
